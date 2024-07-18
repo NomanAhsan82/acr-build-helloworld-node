@@ -1,4 +1,4 @@
----
+1---
 page_type: sample
 languages:
 - javascript
